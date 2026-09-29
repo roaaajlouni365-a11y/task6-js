@@ -24,6 +24,4 @@ fetch("index.json")
         }
 
     })
-    .catch(function(error) {
-        console.log("Error:", error);
-    });
+ 
